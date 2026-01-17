@@ -1,1 +1,1 @@
-# Assignment-03-Communication-between-Microservices
+# Assignment-05: K8s - Deployment, Service, ConfigMap, Secret
